@@ -1,0 +1,14 @@
+{
+	"category" : "BpmFlowUI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BUIAbstractContentPanel",
+	"pools" : [
+		 ],
+	"super" : "SAAbstractContentPanel",
+	"type" : "normal" }
