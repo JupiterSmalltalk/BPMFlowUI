@@ -2,4 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"accessRoleNames" : "jupiter 11/24/2021 21:58",
+		"accessRoles" : "jupiter 11/24/2021 21:58",
+		"canBeAccessedByUser:" : "jupiter 11/24/2021 21:58",
+		"crumbs" : "jupiter 11/24/2021 21:58",
+		"isReadonly" : "jupiter 11/24/2021 21:58",
+		"renderActionsOn:" : "jupiter 11/24/2021 21:58",
+		"renderBreadcrumbItem:on:" : "jupiter 11/24/2021 21:58",
+		"renderBreadcrumbOn:" : "jupiter 11/24/2021 21:58",
+		"renderHeadingOn:" : "jupiter 11/24/2021 21:58",
+		"renderPresenterBreadcrumbs:on:" : "jupiter 11/24/2021 21:58",
+		"rolesWithNames:" : "jupiter 11/24/2021 21:58",
+		"userHasRoleNamed:" : "jupiter 11/24/2021 21:58" } }

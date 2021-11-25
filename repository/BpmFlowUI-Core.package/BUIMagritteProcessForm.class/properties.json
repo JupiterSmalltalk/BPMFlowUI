@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "jupiter 11/24/2021 21:58",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BUIAbstractContentPanel",
+	"name" : "BUIMagritteProcessForm",
 	"pools" : [
 		 ],
-	"super" : "SAAbstractContentPanel",
+	"super" : "WASeasideBpmIntegration",
 	"type" : "normal" }
